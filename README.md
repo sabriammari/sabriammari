@@ -194,7 +194,7 @@ Ouvert(e) à des quêtes collaboratives épiques. Si votre projet nécessite une
 <!-- Section de Contact avec Visuel -->
 
 ## ✉️ Téléportation Digitale
-
+### Home
 <p align="center">
   <img src="lien_vers_teleportation.gif" alt="GIF Téléportation Digitale" width="400">
 </p>
