@@ -272,7 +272,7 @@ Envoyez-moi un hibou électronique à [e-mail](mailto:votre@email.com) pour disc
 <!-- En-tête du Profil -->
 
 <p align="center">
-  <img src="Arcane-Header-Image.jpg" alt="Sabri AMMARI" width="700" height="300">
+  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/Arcane-Header-Image.jpg" alt="Sabri AMMARI" width="600" height="300">
 </p>
 
 <h1 align="center">🚀 Bienvenue dans l'Univers Exceptionnel de [Votre Nom] 🌌</h1>
