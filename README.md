@@ -5,21 +5,19 @@
   <img src="https://github.com/sabriammari/sabriammari/blob/main/img/waves.svg" width="100%" height="150">
 </div>  
 
----
-
 <p align="center">
   <img src="https://votre_lien_vers_une_image" alt="Votre Nom" width="200" height="200">
 </p>
 
-<h1 align="center">Salut, je suis [Votre Nom] 👋</h1>
+<h1 align="center">Salut, je suis Sabri AMMARI 👋</h1>
 
 <p align="center">
   Développeur Full Stack | Passionné par [Langages de programmation] 🚀
 </p>
 
 <p align="center">
-  <a href="https://sabriammari.github.io">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sabriammari/">LinkedIn</a> •
+  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_site.png" width="300" height="300">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="300" height="300">LinkedIn</a>
 </p>
 
 ---
