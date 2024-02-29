@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_site.png" width="300" height="300">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="300" height="300">LinkedIn</a>
+  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" width="80" height="80">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80">LinkedIn</a>
 </p>
 
 ---
