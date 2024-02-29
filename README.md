@@ -25,14 +25,14 @@
   
 ### Frontend  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/html_3d.png" alt="HTML" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/css_3d.png" alt="CSS" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/javascript_3d.png" alt="JavaScript" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/sass_3d.png" alt="Sass" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/vue_3d.png" alt="Vue.js" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/react_3d.png" alt="React.js" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/tailwind_3d.png" alt="Tailwind" height="50" />
-<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/bootstrap_3d.png" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/html_3d.png" alt="HTML" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/css_3d.png" alt="CSS" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/javascript_3d.png" alt="JavaScript" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/sass_3d.png" alt="Sass" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/vue_3d.png" alt="Vue.js" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/react_3d.png" alt="React.js" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/tailwind_3d.png" alt="Tailwind" height="100" />
+<img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/bootstrap_3d.png" alt="Bootstrap" height="100" />
 </div>
 
 </td><td valign="top" width="50%">
