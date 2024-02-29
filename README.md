@@ -26,7 +26,7 @@
 ## 🚀 Mes Compétences
 
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -43,7 +43,7 @@
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" alt="Chart.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -63,9 +63,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 </div>
-
-</td><td valign="top" width="33%">
-
 
 </td></tr></table>  
 
