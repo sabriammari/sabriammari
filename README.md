@@ -9,12 +9,12 @@
 <h1 align="center">Salut, je suis Sabri 👋</h1>
 
 <p align="center">
-  Développeur Full Stack | Passionné par [Langages de programmation] 🚀
+  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" width="80" height="80"></a>
+  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80"></a>
 </p>
 
 <p align="center">
-  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" width="80" height="80"></a>
-  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80"></a>
+  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/github-contribution-grid-snake-dark.svg" width="100%">
 </p>
 
 ---
