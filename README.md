@@ -72,7 +72,9 @@ Je suis ouvert à des collaborations passionnantes et à explorer de nouveaux pr
 
 ## 📫 Comment me joindre
 
-Vous pouvez me contacter par [e-mail](mailto:sabri.ammari1@outlook.fr).
+Vous pouvez me contacter par mail <a href="mailto:sabri.ammari1@outlook.fr" target="_blank">sabri.ammari1@outlook.fr</a>
+
+<!-- [e-mail](mailto:sabri.ammari1@outlook.fr). -->
 
 
 
