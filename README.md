@@ -42,7 +42,7 @@
 <div align="center">  
 <img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/php_3d.png" alt="PHP" height="100" />
 <img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/sql_3d.png" alt="SQL" height="130" />
-<img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/mongodb_3d.png" alt="MongoDB" height="130" />
+<img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/mongodb_3d.png" alt="MongoDB" height="100" />
 <img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/symfony_3d.png" alt="Symfony" height="100" />
 <img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/mysql_3d.png" alt="MySql" height="100" />
 <img style="margin: 50px" src="https://github.com/sabriammari/sabriammari/blob/main/img/wordpress_3d.png" alt="WordPress" height="100" />
