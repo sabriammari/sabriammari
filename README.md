@@ -3,7 +3,7 @@
 </div>  
 
 <p align="center">
-  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo.png" width="500" height="500">
+  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo.png" width="300" height="300">
 </p>	
 <img src="https://github.com/sabriammari/sabriammari/blob/main/img/waves.svg" width="100%" height="150">
 
