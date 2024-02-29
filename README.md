@@ -13,10 +13,6 @@
   <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/github-contribution-grid-snake-dark.svg" width="100%">
-</p>
-
 ---
 
 ## 🚀 Mes Compétences
@@ -56,22 +52,21 @@
 
 ---
 
-## 💼 Projets Récents
-
-- [Nom du Projet 1](lien_vers_le_projet_1): Description courte du projet.
-- [Nom du Projet 2](lien_vers_le_projet_2): Description courte du projet.
+<p align="center">
+  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
 ---
 
 ## 🌱 Actuellement en Formation
 
-Je suis actuellement en formation pour devenir Développeur Concepteur d'Applications à [Nom de l'école] et je suis excité(e) de mettre en pratique ces compétences dans des projets réels.
+Je suis actuellement en formation pour devenir Développeur Concepteur d'Applications à la Wild Code School et je suis prêt à mettre en pratique mes compétences dans des futurs projets.
 
 ---
 
 ## 🤝 Ouvert aux Collaborations
 
-Je suis ouvert(e) à des collaborations passionnantes et à explorer de nouveaux projets. N'hésitez pas à me contacter !
+Je suis ouvert à des collaborations passionnantes et à explorer de nouveaux projets. N'hésitez pas à me contacter !
 
 ---
 
@@ -79,11 +74,7 @@ Je suis ouvert(e) à des collaborations passionnantes et à explorer de nouveaux
 
 Vous pouvez me contacter par [e-mail](mailto:sabri.ammari1@outlook.fr).
 
----
 
-<p align="center">
-  Merci de visiter mon profil ! 😊
-</p>
 
 
 
