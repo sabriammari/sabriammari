@@ -1,7 +1,11 @@
 <div align="center">
 <img src="https://github.com/sabriammari/sabriammari/blob/main/img/Arcane-Header-Image.jpg" align="center" style="width: 100%" />
 </div>  
-  
+
+<p align="center">
+  <img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo.svg" width="300" height="100">
+</p>	
+<img src="https://github.com/sabriammari/sabriammari/blob/main/img/waves.svg" width="100%" height="150">
 
 ### <div align="center">I'm Rishav, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
   
