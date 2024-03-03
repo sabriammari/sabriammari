@@ -5,13 +5,29 @@
   <img src="https://github.com/sabriammari/sabriammari/blob/main/img/waves.svg" width="100%" height="150">
 </div>  
 
+## 🪧 Mon profil
 
 <h1 align="center">Salut, je suis Sabri 👋</h1>
 
-<p align="center">
-  <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" width="80" height="80"></a>
-  <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80"></a>
-</p>
+## 👨‍💻 Mon empreinte
+
+<div align="center">
+  <table><tr><td valign="center" align="center" width="100%">
+    
+  ### PORTFOLIO  
+  <div align="center">  
+    <a href="https://sabriammari.github.io"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/site_logo.png" width="80" height="80"></a>
+  </div>
+  
+  </td><td valign="top" align="center" width="50%">
+  
+  ### LINKEDIN  
+  <div align="center">  
+    <a href="https://www.linkedin.com/in/sabriammari/"><img src="https://github.com/sabriammari/sabriammari/blob/main/img/logo_linkedin.png" width="80" height="80"></a>
+  </div>
+  
+  </td></tr></table>  
+</div>
 
 ---
 
@@ -72,7 +88,7 @@ Je suis ouvert à des collaborations passionnantes et à explorer de nouveaux pr
 
 ## 📫 Comment me joindre
 
-Vous pouvez me contacter par mail <a href="mailto:sabri.ammari1@outlook.fr" target="_blank">sabri.ammari1@outlook.fr</a>
+Vous pouvez me contacter par mail 📬 <a href="mailto:sabri.ammari1@outlook.fr" target="_blank">sabri.ammari1@outlook.fr</a>
 
 <!-- [e-mail](mailto:sabri.ammari1@outlook.fr). -->
 
