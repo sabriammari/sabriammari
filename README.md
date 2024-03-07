@@ -9,7 +9,7 @@
 
 <h1 align="center">Salut, je suis Sabri 👋</h1>
 <h4>
-  Ma passion réside dans l'évolution constante, dans la recherche perpétuelle de solutions innovantes et dans la transmission de connaissances pour inspirer les générations futures.
+  Bonjour à tous 👋😊 ! Je suis un développeur tech passionné, avec une expertise solide en Angular, Docker, JavaScript, PHP et Java. Je me distingue par ma maîtrise des méthodes Agile et Scrum et ma capacité à créer des API conviviales ainsi que des interfaces UX/UI captivantes. Que ce soit en tant que développeur full stack, backend, mobile, frontend ou de jeux, j'apporte ma volonté d'apprendre 🧠 et mon dynamisme 💪 à chaque projet. Je suis prêt à relever de nouveaux défis, en remote, en mode hybride ou sur site et je suis totalement libre. Si vous êtes à la recherche d'un dév curieux et déterminé à Lyon, contactez-moi! 🚀🤓💼
 </h4>
 
 ## 👨‍💻 Mon empreinte
