@@ -81,11 +81,6 @@
 
 ---
 
-## 🌱 Actuellement en Formation
-
-Je suis actuellement en formation pour devenir Développeur Concepteur d'Applications à la Wild Code School et je suis prêt à mettre en pratique mes compétences dans des futurs projets.
-
----
 
 ## 🤝 Ouvert aux Collaborations
 
